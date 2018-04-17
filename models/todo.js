@@ -1,4 +1,4 @@
-// our example model is just an Array
+,// our example model is just an Array
 const todos = [{
     title: 'Wake up', status: true
 }, {
